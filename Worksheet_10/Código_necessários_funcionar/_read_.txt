@@ -1,0 +1,3 @@
+Os códigos necessitam de recorrer aos ficheiros java que se encontram nesta pasta para funcionarem.
+
+This files are necessary in order to test the EDexercises

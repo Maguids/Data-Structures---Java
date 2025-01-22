@@ -16,7 +16,7 @@ In each folder are available the statements and my respective resolutions that w
 
 ## Link to the course: 
 
-This course is part of the **<u>second semester</u>** of the **<u>second year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>** in the academic year 2023/2024. You can find more information about this course at the following link:
+This course is part of the **<u>first semester</u>** of the **<u>second year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>** in the academic year 2023/2024. You can find more information about this course at the following link:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=529852">
